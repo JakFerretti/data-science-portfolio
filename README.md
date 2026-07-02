@@ -105,21 +105,26 @@ https://github.com/JakFerretti/energy-forecasting-analysis
 
 ## Data Analysis
 
-- Pandas
-- NumPy
-- Polars
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Feature Engineering
+- Statistical Data Analysis
 
 ## Machine Learning
 
-- TensorFlow
-- Scikit-learn
-- LightGBM
-- PyTorch
+- Supervised Learning
+- Unsupervised Learning
+- Machine Learning Pipelines
+- Model Evaluation & Validation
+- Hyperparameter Tuning
 
 ## Artificial Intelligence
 
 - Natural Language Processing (NLP)
 - Large Language Models (LLMs)
+- Transformers
+- Text Classification
+- Time Series Analysis & Forecasting
 - Computer Vision (fundamentals)
 
 ## Data Science
@@ -137,13 +142,19 @@ https://github.com/JakFerretti/energy-forecasting-analysis
 - Statistical Data Analysis
 - Mathematical Modeling
 
-## Data Visualization
+### Libraries & Frameworks
 
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- Pandas
+- NumPy
+- Polars
 - Matplotlib
 - Seaborn
 - Plotly
 
-## Deployment & Tools
+### Deployment & Tools
 
 - Streamlit
 - Hugging Face Spaces
