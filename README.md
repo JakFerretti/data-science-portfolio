@@ -46,6 +46,8 @@ I leverage a background in **Particle Physics**, **Statistical Modeling**, and *
 
 ## 🐍 Venom Triage API
 
+<img width="2886" height="1457" alt="Venom-Triage-API" src="https://github.com/user-attachments/assets/dcb04e2b-0a6f-4ce8-a434-092bdcc39331" />
+
 ### Problem
 
 Develop a production-oriented machine learning service capable of supporting medical triage for venomous animal bite cases.
@@ -75,6 +77,9 @@ https://jacklittleiron-venom-triage-api.hf.space/docs
 
 ## 🚓 Police Calls Triage AI
 
+<img width="2377" height="1627" alt="police-api" src="https://github.com/user-attachments/assets/04dc101b-ff65-46f2-9972-7a9d7f3ccda6" />
+
+
 ### Problem
 
 Automatically classify emergency call descriptions according to their urgency using Natural Language Processing.
@@ -102,6 +107,8 @@ https://huggingface.co/spaces/JackLittleIron/police-triage-app
 ---
 
 ## ⚡ Energy Forecasting & Uncertainty Modeling
+
+<img width="1713" height="721" alt="energy consumption" src="https://github.com/user-attachments/assets/da17edca-073c-4c31-823f-a930fb39fd15" />
 
 ### Problem
 
