@@ -19,13 +19,23 @@ I leverage a background in **Particle Physics**, **Statistical Modeling**, and *
 | Project | Resources |
 |----------|-----------|
 | **Venom Triage API** | [GitHub](https://github.com/JakFerretti/venom-triage-api) • [Kaggle](https://www.kaggle.com/code/jacopoferretti/polars-lightgbm-99-7-venom-triage-api-docker) • [Live Demo](https://jacklittleiron-venom-triage-api.hf.space/docs) |
-| **Police Calls Triage AI** | [GitHub](...) • [Kaggle](...) • [Live Demo](...) |
-| **Energy Forecasting** | [GitHub](...) • [Kaggle](...) |
-| **Predictive Maintenance** | [Kaggle](...) |
-| **A/B Testing** | [Kaggle](...) |
-| **Chicago Taxi Analytics** | [Kaggle](...) |
-| **Loan Approval Classification** | [Kaggle](...) |
-| **Customer Segmentation** | [Kaggle](...) |
+| **Police Calls Triage AI** | [GitHub](https://github.com/JakFerretti/police-calls-triage) • [Kaggle](https://www.kaggle.com/code/jacopoferretti/police-call-triage-ai-1d-cnn-streamlit-app) • [Live Demo](https://huggingface.co/spaces/JackLittleIron/police-triage-app) |
+| **Energy Forecasting** | [GitHub](https://github.com/JakFerretti/Energy-Forecasting-Uncertainty-Modeling) • [Kaggle](https://www.kaggle.com/code/jacopoferretti/energy-forecasting-probabilistic-vs-deterministic)) |
+| **Predictive Maintenance** | [Kaggle](https://www.kaggle.com/code/jacopoferretti/predictive-maintenance-failure-detection) |
+| **A/B Testing** | [Kaggle](https://www.kaggle.com/code/jacopoferretti/a-b-test-with-non-normal-distributed-variables) |
+| **Chicago Taxi Analytics** | [Kaggle](https://www.kaggle.com/code/jacopoferretti/chicago-taxis-big-data-trends-with-bigquery-sql) |
+| **Loan Approval Classification** | [Kaggle](https://www.kaggle.com/code/jacopoferretti/loan-approval-classification-with-optuna) |
+| **Customer Segmentation** | [Kaggle](https://www.kaggle.com/code/jacopoferretti/customer-segmentation-strategies) |
+
+## 📚 More Projects on Kaggle
+
+- Company Bankruptcy Classification with Feature Selection
+- Credit Card Fraud Detection with Imbalanced Data
+- Expedia Search Analysis with SQLite
+- Multilevel Regression of Wage vs Education
+- Insurance Premium Analysis with Predictions
+
+➡️ Explore **80+ additional notebooks** covering Machine Learning, SQL Analytics, NLP, Forecasting, Statistics, Explainable AI, and Data Visualization.
 
 ---
 
