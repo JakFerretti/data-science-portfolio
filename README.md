@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jacopo Ferretti
 
-📂 80+ Kaggle Notebooks • 🚀 End-to-End ML + Data Science Projects  
-📊 SQL • 🤖 Machine Learning • 📈 Statistics • 🐳 Docker • ⚡ FastAPI
+🚀 End-to-End Data Scientist • ML • SQL • Statistics • MLOps
+📂 80+ Kaggle Notebooks • 🐳 Docker • ⚡ FastAPI • 🤖 NLP • 📈 Forecasting
 
 **Particle Physicist → Data Scientist / Data Analyst**
 
@@ -30,13 +30,13 @@ I leverage a background in **Particle Physics**, **Statistical Modeling**, and *
 | **Loan Approval Classification** | [Kaggle](https://www.kaggle.com/code/jacopoferretti/loan-approval-classification-with-optuna) |
 | **Customer Segmentation** | [Kaggle](https://www.kaggle.com/code/jacopoferretti/customer-segmentation-strategies) |
 
-## 📚 More Projects on Kaggle
+📚 ## Additional Kaggle Projects (exploratory & academic)
 
-- [Company Bankruptcy Classification with Feature Selection](https://www.kaggle.com/code/jacopoferretti/company-bankruptcy-classif-w-feature-selection)
-- [Credit Card Fraud Detection with Imbalanced Data](https://www.kaggle.com/code/jacopoferretti/credit-card-fraud-detection-with-imbalanced-data)
-- [Expedia Search Analysis with SQLite](https://www.kaggle.com/code/jacopoferretti/analysis-of-user-searches-on-expedia-with-sqlite)
-- [Multilevel Regression of Wage vs Education](https://www.kaggle.com/code/jacopoferretti/multilevel-regression-of-wage-vs-education)
-- [Insurance Premium Analysis with Predictions](https://www.kaggle.com/code/jacopoferretti/analysis-of-insurance-premiums-with-predictions)
+Includes:
+- Finance ML (Bankruptcy, Fraud, Loans)
+- SQL Analytics (Expedia, Insurance)
+- Statistical Modeling (Multilevel Regression)
+- 80+ additional notebooks in ML, NLP, Forecasting
 
 ➡️ Explore **80+ additional notebooks** covering Machine Learning, SQL Analytics, NLP, Forecasting, Statistics, Explainable AI, and Data Visualization.
 
