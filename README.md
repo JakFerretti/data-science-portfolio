@@ -50,8 +50,18 @@ https://www.kaggle.com/jacopoferretti
 | **Predictive Maintenance** | Machine Learning, SHAP | Manufacturing |
 | **A/B Testing with Non-Normal Variables** | Statistics, Python | Marketing |
 | **Chicago Taxi Analytics** | BigQuery SQL | Transportation |
-| **Expedia Search Analysis** | SQLite, SQL | Travel |
+| **Loan Approval Classification** | Optuna, Scikit-learn | Finance |
 | **Customer Segmentation Strategies** | Clustering, Scikit-learn | Marketing |
+
+## 📚 Additional Kaggle Projects
+
+- Company Bankruptcy Classification with Feature Selection
+- Credit Card Fraud Detection with Imbalanced Data
+- Expedia Search Analysis with SQLite
+- Multilevel Regression of Wage vs Education
+- Insurance Premium Analysis with Predictions
+
+➡️ **80+ additional notebooks available on Kaggle**, covering Machine Learning, SQL Analytics, NLP, LLMs, Computer Vision, Time Series Forecasting, Statistics, and Data Visualization.
 
 ---
 
