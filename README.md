@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Jacopo Ferretti
 
+📂 80+ Kaggle Notebooks • 🚀 End-to-End ML + Data Science Projects  
+📊 SQL • 🤖 Machine Learning • 📈 Statistics • 🐳 Docker • ⚡ FastAPI
+
 **Particle Physicist → Data Scientist / Data Analyst**
 
 I leverage a background in **Particle Physics**, **Statistical Modeling**, and **Scientific Computing** to build data-driven solutions through **Machine Learning, SQL Analytics, Statistics, Forecasting, and MLOps**.
@@ -29,11 +32,11 @@ I leverage a background in **Particle Physics**, **Statistical Modeling**, and *
 
 ## 📚 More Projects on Kaggle
 
-- Company Bankruptcy Classification with Feature Selection
-- Credit Card Fraud Detection with Imbalanced Data
-- Expedia Search Analysis with SQLite
-- Multilevel Regression of Wage vs Education
-- Insurance Premium Analysis with Predictions
+- [Company Bankruptcy Classification with Feature Selection](https://www.kaggle.com/code/jacopoferretti/company-bankruptcy-classif-w-feature-selection)
+- [Credit Card Fraud Detection with Imbalanced Data](https://www.kaggle.com/code/jacopoferretti/credit-card-fraud-detection-with-imbalanced-data)
+- [Expedia Search Analysis with SQLite](https://www.kaggle.com/code/jacopoferretti/analysis-of-user-searches-on-expedia-with-sqlite)
+- [Multilevel Regression of Wage vs Education](https://www.kaggle.com/code/jacopoferretti/multilevel-regression-of-wage-vs-education)
+- [Insurance Premium Analysis with Predictions](https://www.kaggle.com/code/jacopoferretti/analysis-of-insurance-premiums-with-predictions)
 
 ➡️ Explore **80+ additional notebooks** covering Machine Learning, SQL Analytics, NLP, Forecasting, Statistics, Explainable AI, and Data Visualization.
 
