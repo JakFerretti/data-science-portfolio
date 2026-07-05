@@ -30,15 +30,7 @@ I leverage a background in **Particle Physics**, **Statistical Modeling**, and *
 | **Loan Approval Classification** | [Kaggle](https://www.kaggle.com/code/jacopoferretti/loan-approval-classification-with-optuna) |
 | **Customer Segmentation** | [Kaggle](https://www.kaggle.com/code/jacopoferretti/customer-segmentation-strategies) |
 
-📚 ## Additional Kaggle Projects (exploratory & academic)
 
-Includes:
-- Finance ML (Bankruptcy, Fraud, Loans)
-- SQL Analytics (Expedia, Insurance)
-- Statistical Modeling (Multilevel Regression)
-- 80+ additional notebooks in ML, NLP, Forecasting
-
-➡️ Explore **80+ additional notebooks** covering Machine Learning, SQL Analytics, NLP, Forecasting, Statistics, Explainable AI, and Data Visualization.
 
 ---
 
@@ -132,25 +124,15 @@ https://www.kaggle.com/code/jacopoferretti/energy-forecasting-probabilistic-vs-d
 
 ---
 
-# 📚 Additional Kaggle Projects
+📚 ## Additional Kaggle Projects (exploratory & academic)
 
-- Company Bankruptcy Classification with Feature Selection
-- Credit Card Fraud Detection with Imbalanced Data
-- Expedia Search Analysis with SQLite
-- Multilevel Regression of Wage vs Education
-- Insurance Premium Analysis with Predictions
+Includes:
+- Finance ML (Bankruptcy, Fraud, Loans)
+- SQL Analytics (Expedia, Insurance)
+- Statistical Modeling (Multilevel Regression)
+- 80+ additional notebooks in ML, NLP, Forecasting
 
-**80+ additional notebooks** covering:
-
-- Machine Learning
-- SQL Analytics
-- NLP
-- Large Language Models (LLMs)
-- Computer Vision
-- Time Series Forecasting
-- Statistics
-- Explainable AI
-- Data Visualization
+➡️ Explore **80+ additional notebooks** covering Machine Learning, SQL Analytics, NLP, Forecasting, Statistics, Explainable AI, and Data Visualization.
 
 ---
 
