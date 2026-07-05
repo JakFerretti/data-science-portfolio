@@ -124,15 +124,13 @@ https://www.kaggle.com/code/jacopoferretti/energy-forecasting-probabilistic-vs-d
 
 ---
 
-📚 ## Additional Kaggle Projects (exploratory & academic)
+## 📚 Additional Kaggle Projects (exploratory & academic)
 
 Includes:
 - Finance ML (Bankruptcy, Fraud, Loans)
 - SQL Analytics (Expedia, Insurance)
 - Statistical Modeling (Multilevel Regression)
-- 80+ additional notebooks in ML, NLP, Forecasting
-
-➡️ Explore **80+ additional notebooks** covering Machine Learning, SQL Analytics, NLP, Forecasting, Statistics, Explainable AI, and Data Visualization.
+- 80+ additional notebooks in ML, NLP, Forecasting, Explainable AI, and Data Visualization.
 
 ---
 
